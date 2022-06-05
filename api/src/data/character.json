@@ -1,0 +1,78 @@
+[
+    {
+        "image": "https://static.wikia.nocookie.net/james-camerons-avatar/images/d/d0/Neytirinavi.png/revision/latest/scale-to-width-down/250?cb=20200711031209&path-prefix=es",
+        "name": "Neytiri Navi",
+        "age": "18",
+        "weight": "60",
+        "history": "Es la deuteragonista y protagonista de Avatar y la princesa Na'vi del Clan Omaticaya. Es la segunda hija de Eytukan y Mo'at, y la hermana menor de Sylwanin.",
+        "films":  "Avatar"
+        
+    },
+    {
+        "image": "https://static.wikia.nocookie.net/james-camerons-avatar/images/d/dd/Human_Sully.png/revision/latest?cb=20210529040333&path-prefix=es",
+        "name": "Jake Sully",
+        "age": "28",
+        "years": "89",
+        "history": " Él es un veterano de la Marina que quedó parapléjico, que después forma un vínculo con la raza Na'vi y que también es uno de los 20 conductores avatar conocidos.",
+        "films": "Avatar"
+        
+    },
+    {
+        "image": "https://alfabetajuega.com/hero/2020/08/Thanos.jpg?width=1200&aspect_ratio=1200:631",
+        "name": "Thanos",
+        "age": "1000",
+        "weight":  "448",
+        "history": "Thanos es un megavillano ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics. Creado por el escritor y artista Jim Starlin, el personaje apareció por primera vez en The Invincible Iron Man # 55",
+        "films":  "Avengers: Endgame"
+    },
+    {
+        "image": "https://s2.glbimg.com/C6FkzGEFGJ_ukkjPS99n_VyKCBY=/0x0:3840x1608/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/J/7/ibkCiHSyqc9kALYiicAQ/loki-tom-hiddleston.jpg",
+        "name": "Loki",
+        "age": "5100",
+        "weight":  "238",
+        "history": "Loki es un dios perteneciente a la mitología nórdica. Es hijo de los gigantes Farbauti y Laufey y tiene dos hermanos, Helblindi y Býleistr de los que poco se sabe.",
+        "films": "Avengers: Endgame"
+        
+    },
+    {
+        "image": "https://i.pinimg.com/736x/ea/a9/3a/eaa93ac79619a1c16c724bb881e30aae.jpg",
+        "name": "Aladdín",
+        "age": "18",
+        "weight":  "80",
+        "history": " Aladdín, un joven de la calle que un día encuentra una lámpara mágica con un genio en su interior. Este último es capaz de concederle tres deseos, uno de los cuales es usado por el protagonista para disfrazarse como un príncipe adinerado con tal de impresionar a la princesa Jasmín, de quien se enamora.",
+        "films": "Aladdín"
+    },
+    {
+        "image": "https://static.wikia.nocookie.net/disney/images/1/16/Tadashi_Hamada.png/revision/latest?cb=20150212175357&path-prefix=es",
+        "name": "Tadashi Hamada",
+        "age": "18",
+        "weight":  "80",
+        "history": "Un talentoso estudiante de robótica en el Instituto de Tecnología de San Fransokyo, Tadashi fue el creador de Baymax: un compañero médico robot personal.",
+        "films":  "Big Hero 6"
+        
+    },
+    {
+        "image": "https://tm.ibxk.com.br//ms/images/highlights/000/036/738/35262.jpg",
+        "name": "Blind Al",
+        "age": "89",
+        "weight":  "90",
+        "history": "Es una anciana ciega y una vez compartió una casa con el mercenario, Wade Wilson.",
+        "films": "Deadpool"	
+    },
+    {
+        "image": "https://mundocritica.com/wp-content/uploads/2014/06/Malefica_MC_gf2.jpg",
+        "name": "Maleficent",
+        "age": "1000",
+        "weight":  "80",
+        "history": "Es una poderosa hechicera que se describe a sí misma como la 'Emperatriz del Mal'.",
+        "films": "Maleficent"
+    },
+    {
+        "image": "https://static.wikia.nocookie.net/disney/images/2/28/Profile_-_Jack_Sparrow.png/revision/latest?cb=20190814020525",
+        "name": "Jack Sparrow",
+        "age": "43",
+        "weight":  "80",
+        "history": "Jack Teague más conocido como Capitán Jack Sparrow es un legendario pirata de Todos los Mares y un irreverente embaucador del Caribe. Un capitán de moralidad y sobriedad dudosas, maestro de la auto-promoción e interés propio.",
+        "films": "Pirates of the Caribbean"
+    }
+]

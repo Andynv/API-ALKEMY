@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Action",
+        "image": "https://static.lpnt.fr/images/2019/04/08/18377520lpw-18377562-article-jpg_6120947_660x287.jpg",
+        "films": [
+            "Iron Man",
+            "Avengers: Endgame",
+            "Deadpool",
+            "Guardians of the Galaxy"
+
+        ]
+    },
+    {
+        "name": "Adventure",
+        "image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/11/Split-image-of-the-main-characters-from-the-posters-of-Wreck-It-Ralph-Zootopia-Moana-and-Big-Hero-6.jpg",
+        "films": [
+            "Book of life",
+            "Moana",
+            "Big Hero 6"
+        ]
+    },
+    {
+        "name": "Fantasy",
+        "image": "https://www.filmcompanion.in/wp-content/uploads/2017/09/5-fantasy-movies-and-tv-shows-you-can-stream-for-your-kids-feature-90.jpeg",
+        "films": [
+            "Avatar",
+            "Aladdin",
+            "Maleficent",
+            "Pirates of the caribbean"
+        ]
+    }
+]

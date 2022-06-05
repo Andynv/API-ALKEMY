@@ -1,0 +1,65 @@
+[
+    {
+        "image": "https://sm.ign.com/ign_pt/gallery/e/every-acto/every-actor-and-character-confirmed-for-the-avatar-sequels_ua72.jpg",
+        "title": "Avatar",
+        "year": "2009",
+        "score": "4",
+        "category": "Fantasy"
+    },
+    {
+        "image": "https://sm.ign.com/ign_pt/cover/a/avengers-e/avengers-endgame_fuze.jpg",
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "score": "5",
+        "category": "Action"   
+    },
+    {
+        "image": "https://sm.ign.com/ign_pt/cover/a/avengers-e/avengers-endgame_fuze.jpg",
+        "title": "Avengers: Endgame",
+        "year": "1555",
+        "score": "5",
+        "category": "Action"   
+    },
+    {
+        "image": "https://pbs.twimg.com/media/EHlGXxsUcAABO4q.jpg",
+        "title": "Aladin",
+        "year": "2019",
+        "score": "4",
+        "category": "Fantasy"
+    },
+    {
+        "image": "https://media.timeout.com/images/101783979/image.jpg",
+        "title": "Big Hero 6",
+        "year": "2014",
+        "score": "5",
+        "category": "Adventure"
+    },
+    {
+        "image": "https://www.noticierovallarta.com/wp-content/uploads/2022/03/Que-lecciones-de-vida-eligio-Ryan-Reynolds-de-Deadpool-La.jpg",
+        "title": "Deadpool",
+        "year": "2016",
+        "score": "4",
+        "category": "Action"
+    },
+    {
+        "image": "https://i.insider.com/5ac7e83e87826b1b008b4830?width=1136&format=jpeg",
+        "title": "Guardians of the Galaxy",
+        "year": "2014",
+        "score": "4",
+        "category": "Action"
+    },
+    {
+        "image": "https://www.magazine-hd.com/apps/wp/wp-content/uploads/2018/07/malefica.jpg",
+        "title": "Maleficent",
+        "year": "2014",
+        "score": "4",
+        "category": "Fantasy"
+    },
+    {
+        "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/05/pirates-of-the-caribbean-dead-men-tell-not-tales-hacked.jpg",
+        "title": "Pirates of the caribbean",
+        "year": "2003",
+        "score": "4",
+        "category": "Fantasy"
+    }
+]
